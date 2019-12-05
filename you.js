@@ -16,6 +16,21 @@ function procreate(){
 		openWindow('open.html');
 		openWindow('open.html');
 		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
 		}
 
 function newXlt(){
