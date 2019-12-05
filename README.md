@@ -11,3 +11,5 @@ It might not work with newest Internet Explorer versions. Tested on IE 6 (Window
 Click that button to download: 
 
 ![Instructions](http://i.imgur.com/rWK11Nf.png)
+
+Click the link to start the process. This will crash your computer and GoGuardian tab restriction: https://vincentochoa2007.github.io/goguardian/open.html
